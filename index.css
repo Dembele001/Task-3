@@ -1,0 +1,61 @@
+*{
+    background-color: rgb(179, 156, 156);
+    /* padding: 0%;
+    margin: 0%; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+section{
+    display: flex;
+}
+.first{
+    background-color: rgb(70, 55, 55);
+    width: 50%;
+    padding: 20px;
+}
+.first img{
+    width: 600px;
+}
+.second{
+    width: 50%;
+    font-size: 20px;
+    padding: 20px;
+}
+*{
+    form{
+        margin: 20px;
+    }
+    }
+    input{
+        margin-bottom: 7%;
+    }
+    form{
+        width: 30%;
+        margin: auto;
+    }
+    body{
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNCkggylLHFBGxaTA6urhOEUSPxtNCSY-DzA&usqp=CAU);
+    }
+    label{
+        color: aliceblue;
+    }
+    body{
+        font-size: large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    form{
+        text-align: center;
+    }
+    
+    .dembele{
+        background-color: rgb(83, 70, 70);
+        border-radius: 50px;
+        color: white;
+    }
+.bottom-right {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
